@@ -1,6 +1,6 @@
 ## Oi! Me chamo Augusto Choairy.
 - 👀 Estou interessado em aprender mais.
-- 🌱 Atualmente estou estudando React.
+
 ##
 <div align="left">
   <a href="https://github.com/GusChoairy">
